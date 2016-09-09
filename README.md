@@ -2,6 +2,9 @@
 
 QtQuick Website: http://www.heilqt.com
 
+
+![驱动精灵主界面](http://7qn7mv.com1.z0.glb.clouddn.com/qtquickdriver.png)
+
 #### 描述
 
 * QML插件以C++来实现绘制QML的组件
@@ -57,4 +60,7 @@ QtQuick Website: http://www.heilqt.com
 
 ```
 
+## 贡献
 
+* [寒山-居士](https://github.com/toby20130333)
+* [toby520](http://www.heilqt.com)
