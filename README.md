@@ -2,8 +2,8 @@
 
 QtQuick Website: http://www.heilqt.com
 
-
-![驱动精灵主界面](http://7qn7mv.com1.z0.glb.clouddn.com/qtquickdriver.png)
+![插件编译配置界面](QQ截图20160909092919.png)
+![插件使用界面](QQ截图20160909092818.png)
 
 #### 描述
 
